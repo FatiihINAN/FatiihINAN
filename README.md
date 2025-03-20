@@ -1,4 +1,4 @@
-https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80
+
 <h1 align="center">Hi 👋, I'm Fatih INAN</h1>
 <h3 align="center">Embedded Software Engineer from Turkeyy</h3>
 
